@@ -7,10 +7,6 @@ class Solution(object):
         li = list(s.strip().split(" "))
         
         test = li[-1]
-        
-        if len(test) == 0:
-            return len(li[-2])
-        else:
-            return len(test)
+        return len(test)
         
         
