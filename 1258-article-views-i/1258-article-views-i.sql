@@ -1,4 +1,5 @@
 select distinct author_id  as id 
-from Views v
-where v.author_id = v.viewer_id 
-order by author_id asc
+from Views 
+where author_id = viewer_id 
+group by author_id
+order by author_id 
