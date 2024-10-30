@@ -22,4 +22,20 @@ Collection of LeetCode questions to ace the coding interview!
 | [1827-invalid-tweets](https://github.com/YounisSaeed/codec/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/YounisSaeed/codec/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/YounisSaeed/codec/tree/master/2127-employees-whose-manager-left-the-company) |
+## Array
+|  |
+| ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/YounisSaeed/codec/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## Binary Search
+|  |
+| ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/YounisSaeed/codec/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/YounisSaeed/codec/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/YounisSaeed/codec/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 <!---LeetCode Topics End-->
