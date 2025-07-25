@@ -30,10 +30,12 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YounisSaeed/codec/tree/master/0004-median-of-two-sorted-arrays) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/YounisSaeed/codec/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YounisSaeed/codec/tree/master/0004-median-of-two-sorted-arrays) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/YounisSaeed/codec/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Dynamic Programming
 |  |
@@ -43,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/YounisSaeed/codec/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YounisSaeed/codec/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
